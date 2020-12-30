@@ -1,6 +1,8 @@
 ### Hi there 👋
-<br />
+
+<br /><br />
 ### Where to find me:
+
 <br />
 <a href="https://www.linkedin.com/in/patrickdupin">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/></code>
