@@ -1,4 +1,15 @@
 ### Hi there 👋
+<br />
+### Where to find me:
+<a href="https://www.linkedin.com/in/patrickdupin">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/></code>
+</a>
+
+<a href="mailto:patrickfdupin@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
+</a>
+
+<br/><br/>
 ## Coding Activity
 
 <br/>
