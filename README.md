@@ -1,10 +1,8 @@
 ### Hello World 👋
 ```<nome>Patrick</nome>```
 
-<br /><br />
-### Fale comigo:
-
 <br />
+### Fale comigo:
 
 <a href="mailto:patrickfdupin@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /></code>
@@ -14,20 +12,17 @@
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/></code>
 </a>
 
-<br/><br/>
+<br/>
 ## Coding Activity
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickdupin&show_icons=true&theme=merko" alt="PatrickDupin's github stats" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdupin&theme=merko" alt="PatrickDupin's Top Languages" />
 </p>
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickdupin&show_icons=true&theme=merko" alt="PatrickDupin's github stats" />
-</p>
 
 <br/>
 <!--
