@@ -12,7 +12,7 @@
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/></code>
 </a>
 
-<br/>
+<br/><br />
 ## Coding Activity
 
 <p align="center">
