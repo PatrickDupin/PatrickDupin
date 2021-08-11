@@ -1,6 +1,8 @@
 ## Hello World 👋
 ```<nome>Patrick</nome>```
 
+![](https://komarev.com/ghpvc/?username=patrickdupin&label=Profile+Views&style=plastic&color=blue)
+
 ## Talk to me:
 
 <a href="mailto:patrickfdupin@gmail.com">
