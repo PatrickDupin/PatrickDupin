@@ -1,7 +1,7 @@
+![](https://komarev.com/ghpvc/?username=patrickdupin&label=Profile+Views&style=plastic&color=blue)
+
 ## Hello World 👋
 ```<nome>Patrick</nome>```
-
-![](https://komarev.com/ghpvc/?username=patrickdupin&label=Profile+Views&style=plastic&color=blue)
 
 ## Talk to me:
 
