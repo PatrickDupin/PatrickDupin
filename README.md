@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=patrickdupin&label=Profile+views&style=plastic&color=blue" alt="Visits to my Profile" />
-</p>
+[![](https://komarev.com/ghpvc/?username=patrickdupin&label=Profile+views&style=plastic&color=blue)](https://komarev.com/ghpvc)
 
 ## Hello World 👋
 ```<nome>Patrick Dupin</nome>```
