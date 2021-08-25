@@ -30,8 +30,8 @@
 ## Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickdupin&show_icons=true&theme=merko" alt="PatrickDupin's github stats" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdupin&theme=merko&layout=compact&include_all_commits=true&count_private=true" alt="PatrickDupin's Top Languages" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickdupin&show_icons=true&theme=merko" alt="PatrickDupin's github stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdupin&theme=merko&layout=compact&include_all_commits=true&count_private=true" alt="PatrickDupin's Top Languages" height="180em" />
 </p>
 
 <br/>
