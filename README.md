@@ -19,12 +19,13 @@
 </p>
 
 ## Talk to me:
-
+&nbsp;
 <a href="mailto:patrickfdupin@gmail.com">
-  <img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
+  <img alt="My e-mail" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/patrickdupin">
-  <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/>
+  <img alt="My linkedin" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
 </a>
 
 ## Coding Activity
